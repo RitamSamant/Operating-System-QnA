@@ -55,3 +55,5 @@ and finally loads the OS
 **Q5) WHAT IS MBR?**
 
 It is a programme which runs when the computer is turning ON to find the OS.
+
+*COLLECTED.
