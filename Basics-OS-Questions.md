@@ -90,6 +90,23 @@ e.Shared Memory
 f.Signals
 
 
-**10. What is 
+**10. What do you mean by overlays in OS?
+
+Overlays is basically a programming method that divides processes into pieces so that instructions that are important and need can be saved in memory. It does not need any type of support from the OS. It can run programs that are bigger in size than physical memory by only keeping only important data and instructions that can be needed at any given time. 
+
+
+**11. Write top 10 examples of OS?
+
+Some of the top OS’s that are used mostly are given below:
+a.MS-Windows
+b.Ubuntu
+c.Mac OS
+d.Fedora
+e.Solaris
+f.Free BSD
+g.Chrome OS
+h.CentOS
+i.Debian 
+j.Android
 
 *[Source- InterviewBit]
