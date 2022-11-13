@@ -57,7 +57,7 @@ Schedule disk operation to read the desired page into main memory.
 Restart the instruction that was interrupted by the operating system trap
 
 
-**7. What do you mean by RTOS?
+**7. What do you mean by RTOS?**
 
 Real Time Operating System (RTOS) is an operating system that is used for real-time applications i.e., for those applications where data processing should be done in a fixed and small measure of time. It performs much better on tasks that are needed to be executed within a short time. It also takes care of execution, monitoring, and all-controlling processes. It also occupies less memory and consumes fewer resources. 
 
@@ -68,7 +68,7 @@ b.Firm Real-Time
 c.Soft Real-Time
 
 
-**8. What do you mean by process synchronization?
+**8. What do you mean by process synchronization?**
 
 Process synchronization is basically a way to coordinate processes that use shared resources or data. It is very much essential to ensure synchronized execution of cooperating processes so that will maintain data consistency. Its main purpose is to share resources without any interference using mutual exclusion. There are two types of process synchronization:
 
@@ -76,7 +76,7 @@ a.Independent Process
 b.Cooperative Process
 
 
-**9. What is IPC? What are the different IPC mechanisms?
+**9. What is IPC? What are the different IPC mechanisms?**
 
 IPC (Interprocess Communication) is a mechanism that requires the use of resources like a memory that is shared between processes or threads. With IPC, OS allows different processes to communicate with each other. It is simply used for exchanging data between multiple threads in one or more programs or processes. In this mechanism, different processes can communicate with each other with the approval of the OS.
 
@@ -90,12 +90,12 @@ e.Shared Memory
 f.Signals
 
 
-**10. What do you mean by overlays in OS?
+**10. What do you mean by overlays in OS?**
 
 Overlays is basically a programming method that divides processes into pieces so that instructions that are important and need can be saved in memory. It does not need any type of support from the OS. It can run programs that are bigger in size than physical memory by only keeping only important data and instructions that can be needed at any given time. 
 
 
-**11. Write top 10 examples of OS?
+**11. Write top 10 examples of OS?**
 
 Some of the top OS’s that are used mostly are given below:
 a.MS-Windows
