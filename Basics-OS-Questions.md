@@ -67,4 +67,29 @@ a.Hard Real-Time
 b.Firm Real-Time
 c.Soft Real-Time
 
+
+**8. What do you mean by process synchronization?
+
+Process synchronization is basically a way to coordinate processes that use shared resources or data. It is very much essential to ensure synchronized execution of cooperating processes so that will maintain data consistency. Its main purpose is to share resources without any interference using mutual exclusion. There are two types of process synchronization:
+
+a.Independent Process
+b.Cooperative Process
+
+
+**9. What is IPC? What are the different IPC mechanisms?
+
+IPC (Interprocess Communication) is a mechanism that requires the use of resources like a memory that is shared between processes or threads. With IPC, OS allows different processes to communicate with each other. It is simply used for exchanging data between multiple threads in one or more programs or processes. In this mechanism, different processes can communicate with each other with the approval of the OS.
+
+Different IPC Mechanisms:
+
+a.Pipes
+b.Message Queuing
+c.Semaphores
+d.Socket
+e.Shared Memory
+f.Signals
+
+
+**10. What is 
+
 *[Source- InterviewBit]
