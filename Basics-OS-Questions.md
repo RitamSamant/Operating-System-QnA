@@ -5,6 +5,7 @@ OS is the most essential and vital part of a computer without which it is consid
 
 
 **2. What's the main purpose of an OS? What are the different types of OS?**
+
 The main purpose of an OS is to execute user programs and make it easier for users to understand and interact with computers as well as run applications. It is specially designed to ensure that the computer system performs better by managing all computational activities. It also manages computer memory, processes, and operation of all hardware and software.
 
 Types of OS:
